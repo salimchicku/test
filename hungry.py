@@ -7,3 +7,6 @@ Created on Wed Jul 22 19:05:57 2020
 
 
 print("teeeeeeeeeeeeeeeeeeeeeeeeeeest")
+hungry="yes"
+if hungry=="yes":
+    print("hi")
