@@ -9,5 +9,7 @@ Created on Wed Jul 22 19:05:57 2020
 print("teeeeeeeeeeeeeeeeeeeeeeeeeeest")
 hungry="yes"
 if hungry=="yes":
-    print("hi")
+    print("east pizza")
+    print("eat fries")
+    print("eat laddu")
 fjydyjgiktguedgsshtkoukrhyehytku
