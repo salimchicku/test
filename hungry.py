@@ -16,3 +16,5 @@ if hungry=="yes":
 thirsty=input("r u thirty?")
 if thirtsty=='yes':
     print("drink water")
+    print("drink soda")
+    print("drink milk")
