@@ -10,4 +10,9 @@ print("teeeeeeeeeeeeeeeeeeeeeeeeeeest")
 hungry="yes"
 if hungry=="yes":
     print("hi")
-fjydyjgiktguedgsshtkoukrhyehytku
+
+
+'''I m making few changes to the existing code to push to different branch'''
+thirsty=input("r u thirty?")
+if thirtsty=='yes':
+    print("drink water")
